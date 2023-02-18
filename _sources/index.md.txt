@@ -1,7 +1,12 @@
 # GitHub Pages のテスト
 
+```{note} 注釈
+ここに適当に注釈を入れられるはず
+```
+
 ```{toctree}
 :maxdepth: 2
+:numbered:
 
 test1
 ```
