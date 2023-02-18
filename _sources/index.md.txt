@@ -1,0 +1,7 @@
+# GitHub Pages のテスト
+
+```{toctree}
+:maxdepth: 2
+
+test1
+```
