@@ -1,2 +1,13 @@
 # test1
 test1`$a=\frac{b}{c}$`
+
+```latex
+\documentclass{jlreq}
+\begin{document}
+\end{document}
+```
+
+| hoge    | fuga    |
+| ------- | ------- |
+| `\hoge` | `\fuga` |
+
