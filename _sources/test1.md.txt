@@ -1,4 +1,2 @@
 # test1
-test1
-
-$a=\frac{b}{c}$
+test1`$a=\frac{b}{c}$`
