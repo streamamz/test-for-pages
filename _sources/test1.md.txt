@@ -2,8 +2,9 @@
 test
 
 $a=\frac{b}{c}$
+
 $$
-\frac{a}{b}
+    \frac{a}{b} = c
 $$
 
 
