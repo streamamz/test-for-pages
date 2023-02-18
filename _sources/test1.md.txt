@@ -1,5 +1,11 @@
 # test1
-test1`$a=\frac{b}{c}$`
+test
+
+$a=\frac{b}{c}$
+$$
+\frac{a}{b}
+$$
+
 
 ```latex
 \documentclass{jlreq}
