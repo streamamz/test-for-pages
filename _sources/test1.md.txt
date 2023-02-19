@@ -9,6 +9,7 @@ $$
 
 
 ```latex
+:linenos:
 \documentclass{jlreq}
 \begin{document}
 \end{document}
